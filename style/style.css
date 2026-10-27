@@ -66,14 +66,20 @@ button{
     font-size: 1.2em;
     width: fit-content;
     align-self:center;
-
 }
 
-button a {
+button a, button {
     color: #a0522d;
     font-weight: bold;
     text-decoration: none;
+    margin-top: 1em;
 }
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
 
 
 /* --- Style du Blog / Articles --- */
