@@ -24,7 +24,7 @@ header nav ul {
 }
 
 /* Pousse le premier élément (le logo) tout à gauche */
-header nav ul li:first-child {
+header ul h1 {
     margin-right: auto;
 }
 
