@@ -121,6 +121,29 @@ button a {
     text-decoration: underline;
 }
 
+/* --- Page recette --- */
+.recette {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    line-height: 1.6;
+}
+ 
+.recette h1,
+.recette h2 {
+    color: #a0522d;
+}
+ 
+.recette img {
+    max-width: 100%;
+    height: auto;
+}
+ 
+.avertissement {
+    background-color: #f5ead8;
+    padding: 1rem;
+}
+
 /* --- Footer --- */
 footer {
     text-align: center;
